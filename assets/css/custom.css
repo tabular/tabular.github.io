@@ -29,7 +29,6 @@ div:focus {
 
 .hx-bg-white,
 .hx-bg-dark,
-.hx-block,
 .hx-appearance-none,
 .hx-py-2,
 .hx-transition-colors,
@@ -51,7 +50,7 @@ div:focus {
 .btn-secondary,
 .btn-primary  {
   border-radius: 0.5rem;
-  border:1px solid rgb(255, 0, 204);
+  border:1px solid rgb(21, 0, 255);
 }
 
 .hx-bg-white:focus,
