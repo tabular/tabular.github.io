@@ -40,7 +40,7 @@ span, input, a, h1, .content h1,
 .btn-secondary,
 .btn-primary  {
   border-radius: 0.5rem;
-  border-color:rgb(43, 186, 226);
+  border-color:rgb(226, 211, 43);
 }
 
 .hx-bg-white:focus,
