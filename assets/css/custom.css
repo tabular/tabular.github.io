@@ -36,7 +36,7 @@ a.hx-hidden{
 }
 
 input.search-input{
-  border: 3px solid #2b89a1;
+  border: 3px solid #899026;
   background-color: rgb(251, 219, 36);
 }
 
@@ -49,6 +49,7 @@ input.hx-bg-white:focus{
 
 input.search-input:focus{
   background-color: rgb(251, 36, 186);
+  border: 3px solid #2b45a1;
   outline: 0px solid #33a354;
   outline-offset: 0px;
   box-sizing: border-box;
