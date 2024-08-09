@@ -10,8 +10,7 @@ span, input, a, h1, .content h1,
   font-family: "NeueHaasUnicaPro";
 }
 
-
-
+/*
 .hx-bg-white,
 .hx-bg-dark,
 .hx-block,
@@ -38,7 +37,7 @@ span, input, a, h1, .content h1,
 .btn-primary  {
   border-radius: 0.5rem;
   border-color:rgb(83, 43, 226);
-}
+}*/
 
 *:focus { 
   border-color: #b871ce;
