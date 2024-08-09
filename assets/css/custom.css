@@ -10,6 +10,10 @@ span, input, a, h1, .content h1,
   font-family: "NeueHaasUnicaPro";
 }
 
+div {
+  border:1px solid rgb(119, 0, 255);
+}
+
 .hx-bg-white,
 .hx-bg-dark,
 .hx-block,
@@ -35,7 +39,7 @@ span, input, a, h1, .content h1,
 .btn-secondary,
 .btn-primary  {
   border-radius: 0.5rem;
-  border:1px solid rgb(255, 0, 0);
+  border:1px solid rgb(17, 255, 0);
 }
 
 .hx-bg-white:focus,
@@ -62,5 +66,5 @@ span, input, a, h1, .content h1,
 .btn-secondary:focus,
 .btn-primary:focus  {
   border-radius: 0rem;
-  border:10px solid rgb(255, 0, 0);
+  border:10px solid rgb(38, 255, 0);
 }
