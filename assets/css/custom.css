@@ -28,11 +28,15 @@ div:focus {
 }*/
 
 .nav-container-blur{
-background-color: rgb(251 191 36);
+background-color: rgb(36, 168, 251);
 }
 
 a.hx-hidden{
   color: white;
+}
+
+input.search-input{
+  border: 3px solid #693d92;
 }
 
 /*
