@@ -38,6 +38,7 @@ span, input, a, h1, .content h1,
   border:1px solid rgb(255, 0, 0);
 }
 
+.input:focus,
 .hx-bg-white:focus,
 .hx-bg-dark:focus,
 .hx-block:focus,
@@ -61,5 +62,5 @@ span, input, a, h1, .content h1,
 .btn-secondary:focus,
 .btn-primary:focus  {
   border-radius: 0rem;
-  border:5px solid rgb(43, 0, 255);
+  border:10px solid rgb(0, 204, 255);
 }
