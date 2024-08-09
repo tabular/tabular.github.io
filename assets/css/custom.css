@@ -10,6 +10,14 @@ span, input, a, h1, .content h1,
   font-family: "NeueHaasUnicaPro";
 }
 
+input {
+  border:6px solid rgb(255, 0, 208);
+}
+
+input:focus {
+  border:6px solid rgb(255, 0, 238);
+}
+
 div {
   border:1px solid rgb(30, 0, 255);
 }
