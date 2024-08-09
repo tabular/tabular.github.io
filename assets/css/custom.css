@@ -14,7 +14,8 @@ input {
   border-color:red;
 }
 
-.hx-px-3,
+.hx-border,
+.hx-border-current,
 .hx-rounded,
 .hx-rounded-xl,
 .hx-rounded-3xl,
@@ -29,5 +30,5 @@ input {
 .btn-secondary,
 .btn-primary  {
   border-radius: 0.5rem;
-  border-color:yellow;
+  border-color:purple;
 }
