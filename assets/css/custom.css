@@ -36,7 +36,7 @@ span, input, a, h1, .content h1,
 .btn-primary  {
   border-radius: 0.5rem;
   border:1px solid #07f;
-  border-color:rgb(226, 211, 43);
+  border-color:rgb(43, 226, 141);
 }
 
 .hx-bg-white:focus,
@@ -62,9 +62,4 @@ span, input, a, h1, .content h1,
 .btn-primary:focus  {
   border-radius: 0rem;
   border-color:rgb(226, 159, 43);
-}
-
-
-*:focus { 
-  border-color: #b871ce;
 }
