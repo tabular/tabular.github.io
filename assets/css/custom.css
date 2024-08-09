@@ -41,6 +41,7 @@ input.search-input{
 
 input.search-input:focus{
   border: 3px solid #3d7692;
+  box-sizing: border-box;
 }
 
 /*
