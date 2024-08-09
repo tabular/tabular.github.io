@@ -38,7 +38,6 @@ span, input, a, h1, .content h1,
   border:1px solid rgb(255, 0, 0);
 }
 
-.input:focus,
 .hx-bg-white:focus,
 .hx-bg-dark:focus,
 .hx-block:focus,
@@ -57,10 +56,11 @@ span, input, a, h1, .content h1,
 .hx-rounded-lg:focus,
 .hx-rounded-md:focus,
 .hx-rounded-sm:focus,
+.content:focus input,
 .content:focus img,
 .content:focus div.gist-file,
 .btn-secondary:focus,
 .btn-primary:focus  {
   border-radius: 0rem;
-  border:10px solid rgb(0, 204, 255);
+  border:10px solid rgb(255, 0, 0);
 }
