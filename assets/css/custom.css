@@ -61,5 +61,5 @@ span, input, a, h1, .content h1,
 .btn-secondary:focus,
 .btn-primary:focus  {
   border-radius: 0rem;
-  border:5px solid rgb(102, 255, 0);
+  border:5px solid rgb(43, 0, 255);
 }
