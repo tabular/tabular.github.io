@@ -1,8 +1,15 @@
 @font-face {
     font-family: "NeueHaasUnicaPro";
-    src: url('fonts/NeueHaasUnicaPro.woff2') format('woff2'), url('fonts/NeueHaasUnicaPro.woff') format('woff');
+    src: url('/fonts/NeueHaasUnicaPro.woff2') format('woff2'), url('/fonts/NeueHaasUnicaPro.woff') format('woff');
 }
 
 .content {
     font-family: "NeueHaasUnicaPro";
+}
+
+h1, .content h1,
+.content h2,
+.content h3,
+.content h3 {
+  font-family: "NeueHaasUnicaPro";
 }
