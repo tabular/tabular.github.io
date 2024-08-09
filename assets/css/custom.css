@@ -37,9 +37,9 @@ span, input, a, h1, .content h1,
 .btn-secondary,
 .btn-primary  {
   border-radius: 0.5rem;
-  border-color:rgb(43, 226, 73);
+  border-color:rgb(83, 43, 226);
 }
 
-input:focus { 
+*:focus { 
   border-color: #b871ce;
 }
