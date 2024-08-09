@@ -35,7 +35,7 @@ span, input, a, h1, .content h1,
 .btn-secondary,
 .btn-primary  {
   border-radius: 0.5rem;
-  border:1px solid #07f;
+  border:1px solid rgb(255, 0, 0);
 }
 
 .hx-bg-white:focus,
@@ -60,5 +60,5 @@ span, input, a, h1, .content h1,
 .btn-secondary:focus,
 .btn-primary:focus  {
   border-radius: 0rem;
-  border:1px solid rgb(255, 0, 234);
+  border:1px solid rgb(102, 255, 0);
 }
