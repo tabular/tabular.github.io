@@ -43,6 +43,32 @@ span, input, a, h1, .content h1,
   border-color:rgb(43, 186, 226);
 }
 
+.hx-bg-white:focus,
+.hx-bg-dark:focus,
+.hx-block:focus,
+.hx-w-full:focus,
+.hx-appearance-none:focus,
+.hx-py-2:focus,
+.hx-transition-colors:focus,
+.hx-text-base:focus,
+.hx-leading-tight:focus,
+.hx-border:focus,
+.hx-border-current:focus,
+.hx-rounded:focus,
+.hx-rounded-xl:focus,
+.hx-rounded-3xl:focus,
+.hx-rounded-lg:focus,
+.hx-rounded-md:focus,
+.hx-rounded-sm:focus,
+.content:focus img,
+.content:focus div.gist-file,
+.btn-secondary:focus,
+.btn-primary:focus  {
+  border-radius: 0rem;
+  border-color:rgb(226, 159, 43);
+}
+
+
 *:focus { 
   border-color: #b871ce;
 }
