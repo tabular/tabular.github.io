@@ -9,3 +9,7 @@ span, input, a, h1, .content h1,
 .content h3 {
   font-family: "NeueHaasUnicaPro";
 }
+
+input {
+  border-color:red;
+}
