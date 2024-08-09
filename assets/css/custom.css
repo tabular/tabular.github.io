@@ -39,6 +39,10 @@ input.search-input{
   border: 3px solid #3d9251;
 }
 
+input.hx-bg-white{
+  background-color: rgb(251, 36, 61);
+}
+
 input.search-input:focus{
   border: 3px solid #3d7692;
   box-sizing: border-box;
