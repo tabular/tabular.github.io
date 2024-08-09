@@ -26,6 +26,9 @@ div:focus {
   border:1px solid rgb(255, 204, 0);
 }
 
+.nav-container-blur{
+background-color: rgb(251 191 36);
+}
 
 .hx-bg-white,
 .hx-bg-dark,
