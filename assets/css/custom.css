@@ -31,6 +31,10 @@ div:focus {
 background-color: rgb(251 191 36);
 }
 
+.hx-text-sm{
+  color: white;
+}
+
 /*
 .hx-bg-white,
 .hx-bg-dark,
