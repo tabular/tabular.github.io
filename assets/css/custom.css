@@ -36,11 +36,14 @@ a.hx-hidden{
 }
 
 input.search-input{
-  border: 3px solid #92913d;
+  border: 3px solid #4d3d92;
 }
 
 input.hx-bg-white{
-  background-color: rgb(251, 36, 61);
+  background-color: rgb(240, 36, 251);
+}
+input.hx-bg-white:focus{
+  background-color: rgb(36, 204, 251);
 }
 
 input.search-input:focus{
