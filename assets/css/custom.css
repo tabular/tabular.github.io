@@ -27,6 +27,10 @@ div:focus {
   border:1px solid rgb(255, 204, 0);
 }*/
 
+.nav-container{
+  padding-left: 0;
+}
+
 .nav-container-blur{
 background-color: #4274f6;
 }
@@ -37,7 +41,7 @@ a.hx-hidden{
 
 input.search-input{
   border: 3px solid #899026;
-  background-color: rgb(251, 219, 36);
+  background-color: rgb(251, 36, 176);
 }
 
 input.hx-bg-white{
