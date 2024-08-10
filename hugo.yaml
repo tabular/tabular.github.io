@@ -40,7 +40,7 @@ menu:
       weight: 6
       url: "https://x.com/"
       params:
-        icon: x-twitter
+        icon: johan
 
 params:
   navbar:
