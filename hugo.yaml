@@ -35,12 +35,12 @@ menu:
       weight: 5
       url: "https://github.com/tabular"
       params:
-        icon: rudolf
+        icon: tabgithub
     - name: LinkedIn
       weight: 6
       url: "https://www.linkedin.com/in/cwoolderink/"
       params:
-        icon: hendrik
+        icon: tabli
 
 params:
   navbar:
