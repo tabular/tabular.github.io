@@ -59,8 +59,8 @@ input.hx-bg-white:focus{
 
 input.search-input:focus{
   background-color: #ffffff;
-  border: 3px solid #b3c7fb;
-  outline: 0px solid #33a354;
+  border: 0px solid #b3c7fb;
+  outline: 3px solid #b3c7fb;
   outline-offset: 0px;
   box-sizing: border-box;
 }
