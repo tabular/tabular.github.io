@@ -33,6 +33,7 @@ div:focus {
 
 .nav-container-blur{
 background-color: #4274f6;
+padding-left: 0;
 }
 
 a.hx-hidden{
@@ -45,7 +46,7 @@ input.search-input{
 }
 
 input.hx-bg-white{
-  background-color: rgb(240, 36, 251);
+  background-color: rgb(36, 251, 82);
 }
 input.hx-bg-white:focus{
   background-color: rgb(36, 204, 251);
