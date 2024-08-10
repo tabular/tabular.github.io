@@ -35,7 +35,7 @@ menu:
       weight: 5
       url: "https://gthub.com/tabular/tabular.github.io"
       params:
-        icon: githubtab
+        icon: rudolf
     - name: Twitter
       weight: 6
       url: "https://x.com/"
