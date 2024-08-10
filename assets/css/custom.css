@@ -36,8 +36,9 @@ a.hx-flex:hover{
   opacity: 1;
 }
 
+/* The link in the menu must change to light blue on hover */
 a.hx-text-sm:hover{
-  color: red;
+  color: #b3c7fb;
 }
 
 a.hx-hidden{
