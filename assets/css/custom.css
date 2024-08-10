@@ -41,6 +41,10 @@ a.hx-text-sm:hover{
   color: #b3c7fb;
 }
 
+button.hamburger-menu {
+  color: #ffffff;
+}
+
 a.hx-hidden{
   color: white;
 }
