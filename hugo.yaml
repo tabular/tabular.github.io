@@ -47,7 +47,7 @@ params:
     displayTitle: false
     displayLogo: true
     logo:
-      path: images/logo.svg
+      path: images/horlight01.svg
       dark: images/logo-dark.svg
       link: /
       width: 100
