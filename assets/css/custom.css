@@ -36,13 +36,17 @@ a.hx-flex:hover{
   opacity: 1;
 }
 
+a.hx-text-sm:hover{
+  color: red;
+}
+
 a.hx-hidden{
   color: white;
 }
 
 input.search-input{
   border: 3px solid #899026;
-  background-color: rgb(36, 226, 251);
+  background-color: rgb(251, 36, 168);
 }
 
 input.hx-bg-white{
