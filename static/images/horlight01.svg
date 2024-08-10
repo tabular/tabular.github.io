@@ -112,8 +112,8 @@
 			</g>
 		</g>
 		<g>
-			<!-- <rect x="0" y="188.98" class="st2" width="94.49" height="94.49"/> -->
-			<!-- <rect x="0" y="0" class="st2" width="94.49" height="94.49"/> -->
+			<rect x="0" y="188.98" class="st2" width="94.49" height="94.49"/>
+			<rect x="0" y="0" class="st2" width="94.49" height="94.49"/>
 			<rect x="885.18" y="0" class="st2" width="94.49" height="94.49"/>
 			<rect x="885.18" y="188.98" class="st2" width="94.49" height="94.49"/>
 		</g>
