@@ -31,8 +31,9 @@ div:focus {
 background-color: #4274f6;
 }
 
+/* Logo should not chage on hover */
 a.hx-flex:hover{
-  opacity: 0;
+  opacity: 1;
 }
 
 a.hx-hidden{
