@@ -50,7 +50,7 @@ params:
       path: images/horlight01.svg
       dark: images/logo-dark.svg
       link: /
-      width: 250
+      width: 220
 
   footer:
     displayCopyright: false
