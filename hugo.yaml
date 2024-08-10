@@ -33,12 +33,12 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://gthub.com/tabular/tabular.github.io"
+      url: "https://github.com/tabular"
       params:
         icon: rudolf
-    - name: Twitter
+    - name: LinkedIn
       weight: 6
-      url: "https://x.com/"
+      url: "https://www.linkedin.com/in/cwoolderink/"
       params:
         icon: hendrik
 
