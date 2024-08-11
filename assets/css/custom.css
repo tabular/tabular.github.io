@@ -29,12 +29,13 @@ div:focus {
 
 div.hx-py-12 {
   background-color: #2e862e;
-  height: 100px;
+  
 }
-/*
+
 footer.hextra-footer {
   background-color: #b3c7fb;
-}*/
+  height: 100px;
+}
 
 .nav-container-blur{
 background-color: #4274f6;
