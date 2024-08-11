@@ -34,9 +34,9 @@ div.hx-py-12 {
 }*/
 
 div.hx-justify-center {
-  background-color: #2e863d;
+  background-color: #2e8486;
   height: 50px;
-  position: sticky;
+  position: absolute;
     top: 0;
     left: 0;
     bottom: 210px;
