@@ -28,7 +28,8 @@ div:focus {
 }*/
 
 div.hx-py-12 {
-  background-color: #000000;
+  background-color: #ff0000;
+  height: auto;
 }
 /*
 footer.hextra-footer {
