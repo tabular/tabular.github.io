@@ -38,7 +38,7 @@ div.hx-justify-center {
   height: 50px;
   position: absolute;
     top: 0;
-    left: 0;
+    left: -1000px;
     bottom: 210px;
 }
 
