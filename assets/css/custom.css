@@ -34,11 +34,11 @@ div.hx-py-12 {
 }*/
 
 div.hx-justify-center {
-  background-color: #2e5e86;
+  background-color: #802e86;
   height: 50px;
   position: absolute;
-    top: 200px;
-    bottom: 0;
+    top: 0;
+    bottom: 200px;
 }
 
 footer.hextra-footer {
