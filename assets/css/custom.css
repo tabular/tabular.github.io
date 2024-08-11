@@ -27,9 +27,13 @@ div:focus {
   border:1px solid rgb(255, 204, 0);
 }*/
 
+div.hx-py-12 {
+  background-color: #000000;
+}
+/*
 footer.hextra-footer {
   background-color: #b3c7fb;
-}
+}*/
 
 .nav-container-blur{
 background-color: #4274f6;
