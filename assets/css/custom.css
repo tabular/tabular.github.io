@@ -34,7 +34,7 @@ div.hx-py-12 {
 }*/
 
 div.hx-justify-center {
-  background-color: #7c862e;
+  background-color: #86452e;
   height: 50px;
   position: absolute;
     top: 0;
@@ -42,11 +42,11 @@ div.hx-justify-center {
     bottom: 210px;
 }
 
+/*
 footer.hextra-footer {
   background-color: #fbfab3;
-  height: 10px; /* Set the desired height */
-  padding: 5px; /* Optional: Adjust padding if needed */
-}
+  height: 10px;
+ */
 
 .nav-container-blur{
 background-color: #4274f6;
