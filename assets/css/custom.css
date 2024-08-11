@@ -27,6 +27,7 @@ div:focus {
   border:1px solid rgb(255, 204, 0);
 }*/
 
+/*
 div.hx-py-12 {
   background-color: #2e6686;
   
@@ -35,11 +36,12 @@ div.hx-py-12 {
 div.hx-justify-center {
   background-color: #862e6e;
   height: 50px;
-}
+}*/
 
 footer.hextra-footer {
   background-color: #b3c7fb;
-  height: 50px;
+  height: 50px; /* Set the desired height */
+  padding: 10px; /* Optional: Adjust padding if needed */
 }
 
 .nav-container-blur{
