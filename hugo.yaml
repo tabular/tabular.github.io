@@ -60,9 +60,9 @@ params:
       width: 200
 
   footer:
-    enable: false
+    enable: true
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: true
