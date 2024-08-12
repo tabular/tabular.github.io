@@ -1,6 +1,8 @@
 ---
 title: My Site
 toc: true
+sidebar:
+  open: true
 ---
 
 This is the landing page.
