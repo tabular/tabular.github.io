@@ -60,7 +60,7 @@ params:
       width: 200
 
   footer:
-    displayCopyright: true
+    displayCopyright: false
     displayPoweredBy: false
 
   editURL:
