@@ -1,6 +1,7 @@
 ---
 title: My Site
 toc: true
+type: docs
 sidebar:
   open: true
 ---
