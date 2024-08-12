@@ -60,6 +60,7 @@ params:
       width: 200
 
   footer:
+    enable: false
     displayCopyright: false
     displayPoweredBy: true
 
