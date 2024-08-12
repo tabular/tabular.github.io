@@ -34,7 +34,8 @@ div.hx-py-12 {
 }*/
 
 div.hx-justify-center {
-  background-color: #2e8486;
+  display: none;
+  background-color: #2e8641;
   height: 50px;
   position: absolute;
     top: 0;
