@@ -27,16 +27,19 @@ div:focus {
   border:1px solid rgb(255, 204, 0);
 }*/
 
+/*
 body, html {
   margin: 0;
   padding: 0;
-}
+}*/
 
+/*
 div.hx-py-12 {
   background-color: #2e6686;
   display: none;
-}
+}*/
 
+/*
 div.hx-justify-center {
   display: none;
   background-color: #2e8641;
@@ -45,8 +48,8 @@ div.hx-justify-center {
     top: 0;
     left: 1000px;
     bottom: 210px;
-}
-
+} */
+/*
 div.hextra-scrollbar
 {
   display: none;
@@ -55,13 +58,14 @@ div.hextra-scrollbar
 nav.hextra-toc
 {
   display: none;
-}
+}*/
 
+/*
 footer.hextra-footer {
   background-color: #b3c7fb;
   padding-bottom: 0;
   display: none;
-}
+}*/
 
 
 .nav-container-blur{
