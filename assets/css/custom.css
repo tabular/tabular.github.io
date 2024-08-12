@@ -46,6 +46,7 @@ div.hx-justify-center {
 footer.hextra-footer {
   background-color: #b3c7fb;
   padding-bottom: 0;
+  display: none;
 }
 
 
