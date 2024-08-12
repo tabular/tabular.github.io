@@ -47,6 +47,10 @@ div.hx-justify-center {
     bottom: 210px;
 }
 
+div.hextra-scrollbar
+{
+  display: none;
+}
 
 footer.hextra-footer {
   background-color: #b3c7fb;
