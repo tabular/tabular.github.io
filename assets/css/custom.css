@@ -52,6 +52,11 @@ div.hextra-scrollbar
   display: none;
 }
 
+nav.hextra-toc
+{
+  display: none;
+}
+
 footer.hextra-footer {
   background-color: #b3c7fb;
   padding-bottom: 0;
