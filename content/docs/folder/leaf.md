@@ -1,5 +1,6 @@
 ---
 title: Leaf Page
+url: /leafy
 type: docs
 prev: docs/folder/
 ---
