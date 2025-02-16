@@ -61,7 +61,7 @@ params:
 
   footer:
     enable: true
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: false
 
   editURL:
