@@ -63,7 +63,7 @@ params:
     enable: true
     displayCopyright: false
     displayPoweredBy: false
-    switchesVisible: true
+    switchesVisible: false
 
   editURL:
     enable: true
