@@ -1,8 +1,3 @@
-@font-face {
-    font-family: "neue-haas-unica";
-    font-style: italic;
-}
-
 .st0{fill:#0047BA;}
 	.st1{fill:#95C6EC;}
 	.st2{fill:#1E366C;}
@@ -48,7 +43,7 @@ span, input, a, h1, .content h1,
 .content h2,
 .content h3,
 .content h3 {
-  font-family: "NeueHaasUnicaPro";
+  font-family: "neue-haas-unica";
 }
 
 /*
