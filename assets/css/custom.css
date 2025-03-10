@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "NeueHaasUnicaPro";
-    src: url('/fonts/NeueHaasUnicaPro.woff2') format('woff2'), url('/fonts/NeueHaasUnicaPro.woff') format('woff');
+    font-family: "neue-haas-unica";
+    font-style: italic;
 }
 
 .st0{fill:#0047BA;}
