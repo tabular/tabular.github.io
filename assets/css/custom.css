@@ -44,6 +44,7 @@ span, input, a, h1, .content h1,
 .content h3,
 .content h3 {
   font-family: "neue-haas-unica";
+  font-style: italic;
 }
 
 /*
