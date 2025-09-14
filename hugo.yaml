@@ -33,6 +33,7 @@ params:
   navbar:
     displayTitle: false
     displayLogo: true
+    switchesVisible: false
     logo:
       path: images/logo_horlight01.svg
       dark: images/logo-dark.svg
