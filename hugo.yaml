@@ -20,7 +20,7 @@ menu:
   main:
     - name: GitHub
       weight: 5
-      url: "https://github.com/tabular-dev"
+      url: "https://github.com/tabular"
       params:
         icon: tabgithub
     - name: LinkedIn
