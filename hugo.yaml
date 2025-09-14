@@ -47,4 +47,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/tabular-dev/tabular-dev.github.io/edit/main/content"
+    base: "https://github.com/tabular/tabular.github.io/edit/main/content"
