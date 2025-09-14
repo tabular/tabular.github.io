@@ -1,0 +1,42 @@
+.nav-container-blur{
+  background-color: #4274f6;
+}
+
+span, input, a, p, div, h1, .content h1,
+.content h2,
+.content h3,
+.content h3 {
+  font-family: "neue-haas-unica";
+}
+
+/* Logo should not chage on hover */
+a.hx-flex:hover{
+  opacity: 1;
+}
+
+/* The link in the menu must change to light blue on hover */
+a.hx-text-sm:hover{
+  color: #b3c7fb;
+}
+
+/* The links in the menu needs to be white */
+a.hx-hidden{
+  color: white;
+}
+
+/* Hamburger menu needs to be white instead of black */
+button.hamburger-menu {
+  color: #ffffff;
+}
+
+input.search-input{
+  background-color: #ffffff;
+}
+
+input.search-input:focus{
+  background-color: #ffffff;
+  border: 0px solid #b3c7fb;
+  outline: 3px solid #b3c7fb;
+  outline-offset: 0px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,50 @@
+# Hugo configuration file
+title: TABULAR
+
+# import hextra as module
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/tabular-dev"
+      params:
+        icon: tabgithub
+    - name: LinkedIn
+      weight: 6
+      url: "https://www.linkedin.com/in/cwoolderink/"
+      params:
+        icon: tabli
+
+params:
+  navbar:
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: images/logo_horlight01.svg
+      dark: images/logo-dark.svg
+      link: /
+      width: 200
+
+  footer:
+    enable: false
+    displayCopyright: true
+    displayPoweredBy: false
+    switchesVisible: false
+
+  editURL:
+    enable: true
+    base: "https://github.com/tabular-dev/tabular-dev.github.io/edit/main/content"
