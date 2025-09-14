@@ -30,10 +30,14 @@ menu:
         icon: tabli
 
 params:
+  theme:
+    # light | dark | system
+    default: light
+    displayToggle: false
+    
   navbar:
     displayTitle: false
     displayLogo: true
-    switchesVisible: false
     logo:
       path: images/logo_horlight01.svg
       dark: images/logo-dark.svg
