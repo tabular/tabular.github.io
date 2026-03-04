@@ -1,5 +1,6 @@
 # Hugo configuration file
 title: TABULAR
+baseURL: "https://tabular.com/"
 
 # import hextra as module
 module:
@@ -16,11 +17,27 @@ markup:
   highlight:
     noClasses: false
 
+page:
+    # full (100%), wide (90rem), normal (80rem)
+    width: full
+
 menu:
   main:
+    - identifier: tabular-editor-experience
+      name: Tabular Editor Experience
+      pageRef: /tabular-editor-experience
+      weight: 1
+    - identifier: tabular-developers
+      name: TABULAR developers
+      pageRef: /tabular-developers
+      weight: 2 
+    - identifier: about
+      name: About
+      pageRef: /about
+      weight: 3
     - name: GitHub
       weight: 5
-      url: "https://github.com/tabular"
+      url: "https://github.com/tabular-dev"
       params:
         icon: tabgithub
     - name: LinkedIn
@@ -30,11 +47,6 @@ menu:
         icon: tabli
 
 params:
-  theme:
-    # light | dark | system
-    default: light
-    displayToggle: false
-    
   navbar:
     displayTitle: false
     displayLogo: true
@@ -45,11 +57,16 @@ params:
       width: 200
 
   footer:
-    enable: false
-    displayCopyright: true
+    enable: true
+    displayCopyright: false
     displayPoweredBy: false
     switchesVisible: false
 
   editURL:
     enable: true
     base: "https://github.com/tabular/tabular.github.io/edit/main/content"
+
+  theme:
+    default: light
+    disableThemeToggle: true
+    displayToggle: false
