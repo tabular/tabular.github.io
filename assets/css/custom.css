@@ -40,3 +40,208 @@ input.search-input:focus{
   outline-offset: 0px;
   box-sizing: border-box;
 }
+
+* {
+  font-family: "neue-haas-unica" !important;
+}
+
+
+a.tito-vat-number-toggle {
+  color: #0047ba !important;          /* removes Tito's blue */
+  text-decoration: underline !important; /* adds underline */
+  /* cursor: pointer;  */                  /* optional: keeps it clickable */
+}
+
+a.tito-vat-number-toggle:hover {
+  color: #4274f6 !important;          /* removes Tito's blue */
+  text-decoration: underline !important; /* adds underline */
+}
+
+th {
+  font-weight: normal !important;
+}
+
+label {
+  font-weight: normal !important;
+  text-transform: none !important;
+  font-size: 10pt !important;
+}
+
+span.tito-registration-progress-item--label {
+  font-weight: normal !important;
+  font-size: 10pt !important;
+}
+
+h2.tito-registration-section-header--heading {
+  font-weight: normal !important;
+}
+
+h2.tito-address-fields-title {
+  font-weight: normal !important;
+}
+
+td.tito-registration-summary--total {
+  font-weight: normal !important;
+}
+
+div.tito-payment-instructions{
+  color: #000000 !important;
+  background-color: #b3c7fb !important;
+}
+
+button.tito-submit{
+  background-color: #4274f6 !important;
+  color: #ffffff !important;
+}
+
+button.tito-submit:hover{
+  background-color: #4274f6 !important;
+  color: #b3c7fb !important;
+}
+
+button.tito-continue-button{
+  background-color: #4274f6 !important;
+  color: #ffffff !important;
+}
+
+button.tito-continue-button:hover{
+  background-color: #4274f6 !important;
+  color: #b3c7fb !important;
+}
+
+label.tito-address-fields-address-label { 
+  text-transform: none !important; 
+}
+
+input:focus,select:focus,textarea:focus,div.choices:focus{
+  outline: 2px solid #b3c7fb !important; 
+}
+
+tito-widget .tito-release--decrement-quantity--link svg path,
+tito-widget .tito-release--increment-quantity--link svg path {
+  fill: #4274f6;
+}
+
+.tito-widget {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;           /* prevents intrinsic min-content overflow */
+  box-sizing: border-box;
+}
+
+.tito-widget > .tito-widget-form {
+  display: block;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/*
+.hextra-footer > div:first-of-type {
+  display: none !important;
+}
+*/
+
+.hextra-custom-footer {
+  /* padding-top: 2rem !important;
+  padding-bottom: 2rem !important;
+  */
+  height: 4rem !important;
+  display: flex !important;
+  align-items: center !important;
+
+  max-width: none !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+input.tito-register-interest-name-field {
+  text-align: left !important;
+}
+
+.tito-register-interest-form input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tito-register-interest-form button {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.tito-widget-form .tito-register-interest-form > div {
+  margin-top: 1rem;
+}
+
+.tito-register-interest-form {
+  display: grid;                    /* keeps fields nicely stacked */
+  gap: 4px;
+  margin-bottom: 2rem;
+}
+
+.tito-widget .tito-register-interest-form > button[type="submit"] {
+  justify-self: end;                /* align button to the right */
+}
+
+.tito-widget .tito-register-interest-form > button[type="submit"] {
+
+  justify-self: end;         /* push it to the right edge */
+  width: 50%;                /* half of the input/form width */
+  box-sizing: border-box;
+
+  padding: 0.75em 1.5em;
+  background-color: #4274f6;
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 11pt;
+  text-align: center;
+  text-decoration: none;
+  line-height: 1.2;
+  transition: background-color 0.15s ease, opacity 0.15s ease;
+}
+
+.tito-widget .tito-register-interest-form > button[type="submit"]:hover {
+  color: #b3c7fb;
+}
+
+.tito-register-interest-form .tito-register-interest-form--name input,
+.tito-register-interest-form .tito-register-interest-form--email input {
+  width: 100%;
+  box-sizing: border-box;    /* make padding/border not overflow */
+}
+
+.container {
+  display: flex;
+}
+
+.left {
+  text-align: left;
+  flex: 1;
+  padding-left: 1.5rem; !important;
+  font-size: 0.875rem;
+}
+
+.right {
+  text-align: right;
+  flex: 1;
+  padding-right: 1.5rem; !important;
+  font-size: 0.875rem;
+}
+
+/* Ensure the container spans the viewport and aligns items */
+.hextra-custom-footer > .container {
+  width: 100vw;            /* full viewport width */
+  margin: 0;               /* no centering */
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
