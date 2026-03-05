@@ -59,7 +59,7 @@ params:
       # https://umami.is/docs/tracker-configuration#data-tag
       # domains: "example.net,example.org" # optional
       # https://umami.is/docs/tracker-configuration#data-exclude-search
-      # tag: "umami-eu" # optional
+      tag: "umami-eu" # optional
       # https://umami.is/docs/tracker-configuration#data-exclude-hash
       # excludeSearch: "true" # optional
       # https://umami.is/docs/tracker-configuration#data-do-not-track
