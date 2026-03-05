@@ -221,3 +221,6 @@ When September arrives, you’ll choose the exam moment that fits your schedule 
 ## Questions? Let's meet!
 
 <div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline-tee"></div>
+
+## Contact
+Please feel free to drop me a message through the <a href="https://forms.tabular.com/contact">Contact Form</a>
