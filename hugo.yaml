@@ -47,6 +47,27 @@ menu:
         icon: tabli
 
 params:
+  analytics:
+    umami:
+      serverURL: "https://tabular.com"
+      websiteID: "e9f36711-bd37-4b8f-b48b-01285569b61b"
+      # scriptName: "script.js" # optional (default: script.js)
+      # https://umami.is/docs/tracker-configuration#data-host-url
+      # hostURL: "http://stats.example.org" # optional
+      # https://umami.is/docs/tracker-configuration#data-auto-track
+      # autoTrack: "false" # optional
+      # https://umami.is/docs/tracker-configuration#data-tag
+      # domains: "example.net,example.org" # optional
+      # https://umami.is/docs/tracker-configuration#data-exclude-search
+      # tag: "umami-eu" # optional
+      # https://umami.is/docs/tracker-configuration#data-exclude-hash
+      # excludeSearch: "true" # optional
+      # https://umami.is/docs/tracker-configuration#data-do-not-track
+      # excludeHash: "true" # optional
+      # https://umami.is/docs/tracker-configuration#data-domains
+      # doNotTrack: "true" # optional
+
+
   navbar:
     displayTitle: false
     displayLogo: true
