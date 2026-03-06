@@ -5,6 +5,8 @@ toc: false
 
 {{< vimeo 1157048280 autoplay="true" >}}
 
+<iframe src="https://player.vimeo.com/video/1157048280?dnt=0" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0 allow=fullscreen></iframe>
+
 ## SELECTEDVALUE for you?
 
 You know about Tabular Editor. It’s been almost ten years since the open-source Tabular Editor 2 first came out, and it remains both popular and actively maintained. You’ve also been hearing a lot about Tabular Editor 3—the commercial edition—and it has sparked your curiosity…
