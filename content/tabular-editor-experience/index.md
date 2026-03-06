@@ -3,7 +3,7 @@ title: Tabular Editor Experience
 toc: false
 ---
 
-{{< vimeo 1157048280 >}}
+{{< vimeo 1157048280 autoplay="true" >}}
 
 ## SELECTEDVALUE for you?
 
