@@ -3,7 +3,7 @@ title: Tabular Editor Experience
 toc: false
 ---
 
-{{< vimeo 1157048280 autoplay="true" >}}
+{{< vimeo 1157048280 >}}
 
 <iframe src="https://player.vimeo.com/video/1157048280?dnt=0" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0 allow=fullscreen></iframe>
 
