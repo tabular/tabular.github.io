@@ -3,9 +3,7 @@ title: Tabular Editor Experience
 toc: false
 ---
 
-{{< vimeo 1157048280 >}}
-
-<iframe src="https://player.vimeo.com/video/1157048280?dnt=0" allow=fullscreen></iframe>
+{{< vimeo 1157048280 loop=1 >}}
 
 ## SELECTEDVALUE for you?
 
