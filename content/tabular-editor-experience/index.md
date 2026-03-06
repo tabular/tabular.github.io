@@ -3,7 +3,7 @@ title: Tabular Editor Experience
 toc: false
 ---
 
-{{< vimeo 1157048280 loop=1 >}}
+{{< vimeo 1157048280 >}}
 
 ## SELECTEDVALUE for you?
 
